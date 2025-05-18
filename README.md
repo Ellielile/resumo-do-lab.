@@ -1,2 +1,6 @@
 # resumo-do-lab.
-resumo sobre nuvem MS
+Resumo sobre nuvem MS
+A nuvem na Microsoft é basicamente uma forma de acessar recursos como armazenamento, servidores e bancos de dados pela internet, assim possibilitanto a criação, teste e hospedagem aplicações com segurança e flexibilidade. 
+Existem três tipos de nuvem:
+A pública é quando tudo fica hospedado em servidores da própria empresa (como a Microsoft, Google, etc.) e várias pessoas ou empresas usam os mesmos recursos de forma separada. A privada é quando a estrutura da nuvem é usada só por uma empresa. E a híbrida mistura as duas.
+A nuvem da Microsoft funciona no modelo "pague o que consome", ou seja, você paga só pelo que usar. Isso vale para coisas como processamento, armazenamento, banco de dados e serviços de rede. O que torna o serviço escalável, tanto para diminuir quanto para aumentar, e dispõe um controle em tempo real dos custos.
