@@ -9,3 +9,9 @@ Benefícios da Nuvem Azure
 Alta disponibilidade: A Azure oferece datacenters distribuídos globalmente e redundância para garantir que os serviços estejam sempre acessíveis, com SLAs (Acordo de nível de serviço) que podem chegar a 99,99% de disponibilidade mensal, ou seja, se ficar fora do ar mais do que isso, a empresa tem direito a ressarcimento. 
 Segurança: Dados criptografados, diversas camadas de proteção, rendundâncias e backups.
 Escalabilidade: Os serviços podem ser ajustados automaticamente conforme a demanda, tanto vertical quanto horizontalmente, sem necessidade de parar aplicações.
+
+Criação de  uma instância no Azure
+Há três tipos de serviços oferecidos pela MS, sendo eles:
+IaaS (Infraestrutura como Serviço): Você aluga recursos como servidores, redes e armazenamento na nuvem. Você gerencia sistema operacional, aplicativos e dados.
+PaaS (Plataforma como serviço): Você cuida só do desenvolvimento do app e dos dados. A nuvem fornece a infraestrutura + sistema operacional + runtime. 
+SaaS (Software como serviço): Software pronto e entregue pela internet. Você só usa, sem se preocupar com servidores, atualizações ou manutenção.
